@@ -16,9 +16,10 @@
 - **Context API:** Data and state management are handled using React's Context API, ensuring efficient state updates and a consistent user experience.
 
 ## Technologies Used
-React
-React Router
-React Leaflet
-Context API
-Geocoding Location APIs (e.g., Google Maps Geocoding API)
-HTML/CSS
+**React**
+**React Router**
+**React Leaflet**
+**Context API**
+**Geocoding Location APIs (Maps Geocoding API)**
+**HTML/CSS**
+**Javascript**
