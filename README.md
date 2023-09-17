@@ -17,9 +17,9 @@
 
 ## Technologies Used
 **React**<br>
-**React Router**
-**React Leaflet**
-**Context API**
-**Geocoding Location APIs (Maps Geocoding API)**
-**HTML/CSS**
+**React Router**<br>
+**React Leaflet**<br>
+**Context API**<br>
+**Geocoding Location APIs (Maps Geocoding API)**<br>
+**HTML/CSS**<br>
 **Javascript**
