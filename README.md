@@ -1,5 +1,8 @@
 # Map-Explorer
 
+<img width="931" alt="image" src="https://github.com/yaddeepak/Map-Explorer/assets/91468349/da4922eb-5057-4866-9cae-a19f6533c32f">
+<img width="923" alt="image" src="https://github.com/yaddeepak/Map-Explorer/assets/91468349/8183f28f-01c1-49a0-ac45-d955307aa46b">
+
 ## Features
 
 - **City Notes:** Users can add notes about their favorite cities. Each note includes the city's name, description, and an optional image.
