@@ -16,7 +16,7 @@
 - **Context API:** Data and state management are handled using React's Context API, ensuring efficient state updates and a consistent user experience.
 
 ## Technologies Used
-**React**
+**React**<br>
 **React Router**
 **React Leaflet**
 **Context API**
